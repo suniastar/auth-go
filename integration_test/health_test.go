@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/suniastar/auth-go/types"
+	"github.com/suniastar/auth-go"
 )
 
 func TestHealth(t *testing.T) {
